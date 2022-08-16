@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Ricardo.
+
+I'm an Argentine student 🇦🇷 *looking to collaborate with the Open Source community in the future* ⚡
+
+- I'm currently learning **Python** 🌱
 
 <!--
 **gutierrezricardo92/gutierrezricardo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
