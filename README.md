@@ -1,20 +1,15 @@
-### Hi there 👋, I'm Ricardo.
+# Hi there 👋, I'm Ricardo.
 
 I'm an Argentine student 🇦🇷 *looking to collaborate with the Open Source community in the future* ⚡
 
 - I'm currently learning **JavaScript** 🌱
 
-<!--
-**gutierrezricardo92/gutierrezricardo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 🛠️
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Language   | Level       |
+|------------|-------------|
+| Java       | basic       |
+| Python     | basic       |
+| CSS        | in progress |
+| HTML       | in progress |
+| JavaScript | in progress |
